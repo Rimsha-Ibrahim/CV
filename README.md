@@ -1,1 +1,1 @@
-# CV
+I was assigned to create a CV file in Markdown extension on Jupyter Notebook and then upload it on GitHub by creating a repository.
